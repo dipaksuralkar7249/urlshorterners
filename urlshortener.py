@@ -1,3 +1,4 @@
+import re
 import mysql.connector as my
 import tkinter as tk
 import pyshorteners as py
